@@ -20,6 +20,9 @@ it, simply add the following line to your Podfile:
 pod "PushRegister"
 ```
 
+## Usage
+Just add `PushRegister.register()` to you `didFinishLaunchingWithOptions`
+
 ## Author
 
 Rishabh Tayal, rtayal11@gmail.com
