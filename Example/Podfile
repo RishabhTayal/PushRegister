@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PushRegister_Example' do
+  pod 'PushRegister', :path => '../'
+
+  target 'PushRegister_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

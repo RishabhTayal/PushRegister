@@ -1,0 +1,16 @@
+PODS:
+  - PushRegister (0.1.0)
+
+DEPENDENCIES:
+  - PushRegister (from `../`)
+
+EXTERNAL SOURCES:
+  PushRegister:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PushRegister: 57c1f3d0cee2aa34b10522e96d7db6d96b390c13
+
+PODFILE CHECKSUM: c1ebc2a8cbe7d0f43a27fd28eab65aa18fe4577b
+
+COCOAPODS: 1.0.1
